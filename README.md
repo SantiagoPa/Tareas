@@ -8,4 +8,4 @@ Aplicacion de consola que te permite lleva un listado de tareas y hacerle
 npm install
 
 ``` 
-para instlar 
+para instalar 
